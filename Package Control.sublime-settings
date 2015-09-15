@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ChineseLocalization",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Nil"
+	]
+}
