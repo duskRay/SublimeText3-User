@@ -17,4 +17,6 @@ Include package:
 * JsFormat
 * Markdown Preview
 * SideBarEnhancements
-* Theme - Nil
+
+[PackageControl](https://packagecontrol.io/)
+
