@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -14,6 +15,7 @@
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
-		"Theme - Nil"
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
