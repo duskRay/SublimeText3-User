@@ -1,3 +1,17 @@
 [
-	{ "keys": ["ctrl+alt+="], "command": "alignment" }
+	{ "keys": ["ctrl+alt+="], "command": "alignment" },
+	{
+	    "keys": [
+	        "ctrl+alt+,"
+	    ], 
+	    "args": {
+	        "action": "balance_outward"
+	    }, 
+	    "command": "run_emmet_action", 
+	    "context": [
+	        {
+	            "key": "emmet_action_enabled.balance_outward"
+	        }
+	    ]
+	}
 ]

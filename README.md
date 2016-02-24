@@ -17,8 +17,6 @@ Include package:
 * JsFormat
 * Markdown Preview
 * SideBarEnhancements
-* SublimeLinter
-* SublimeLinter-jshint
-
-[PackageControl](https://packagecontrol.io/)
-
+* Theme - Nil
+* Babel
+* JavaScript Next

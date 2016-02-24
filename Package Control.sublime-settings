@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"ChineseLocalization",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
