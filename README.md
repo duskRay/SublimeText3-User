@@ -20,3 +20,12 @@ Include package:
 * Theme - Nil
 * Babel
 * JavaScript Next
+
+4.About font setting
+```
+"font_face": "DejaVu Sans Mono", 
+"font_size": 12, 
+"font_options": ["directwrite"], 
+"tab_size": 2, 
+"translate_tabs_to_spaces": true,
+```
