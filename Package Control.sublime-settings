@@ -2,13 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"ChineseLocalization"
 	],
 	"installed_packages":
 	[
 		"Alignment",
 		"Babel",
 		"BracketHighlighter",
-		"ChineseLocalization",
+		"ChineseLocalizations",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
