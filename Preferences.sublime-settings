@@ -1,11 +1,15 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_face": "DejaVu Sans Mono", 
-	"font_size": 12, 
-	"font_options": ["directwrite"], 
-	"tab_size": 2, 
-	"translate_tabs_to_spaces": true,
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 12,
 	"ignored_packages":
 	[
-	]
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
